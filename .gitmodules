@@ -1,0 +1,3 @@
+[submodule "robinhood/robinhood/Robinhood-for-Google-Finance"]
+	path = robinhood/robinhood/Robinhood-for-Google-Finance
+	url = https://github.com/briansrls/Robinhood-for-Google-Finance
